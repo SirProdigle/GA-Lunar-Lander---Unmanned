@@ -67,6 +67,14 @@
 //	defines used in the genetic algorithm
 //--------------------------------------------------------------------
 
+#define CROSSOVER_RATE 1
+#define MUTATION_RATE 1
+#define POP_SIZE 100
+#define CHROMO_LENGTH 1
+#define NUM_COPIES_ELITE 1
+#define NUM_ELITE 1
+#define MAX_GENERATIONS_ALLOWED 1000
+
 //used for elitism
 
 //this is the maximum amount of time the duration
